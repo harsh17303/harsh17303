@@ -1,5 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harsh Pandey.
-Software Engineer Passionate about crafting intuitive and responsive user interfaces using modern web technologies. We are experienced in building robust and scalable applications focusing on performance and accessibility.
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harsh Pandey
+====================================================================================================================================
+
+## Software Engineer
+
+Passionate about crafting intuitive and responsive user interfaces using modern web technologies. We are experienced in building robust and scalable applications focusing on performance and accessibility.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://harsh17303.github.io/MyPortfolio/)
 * ✉️  You can contact me at [harsh.303office@gmail.com](mailto:harsh.303office@gmail.com)
